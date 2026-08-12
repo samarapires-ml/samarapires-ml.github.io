@@ -1,9 +1,8 @@
-# Samara Pires — Portfolio
+# Samara Pires - Portfolio
 
-Personal portfolio site — data science, applied ML, and research work, built as a static
-single-page site (no frameworks, no build step).
+Personal portfolio site - data science, applied ML, and research work
 
-🔗 **Live site:** https://samarapires-ml.github.io *(update if your repo/URL differs)*
+🔗 **Live site:** https://samarapires-ml.github.io 
 
 ## About
 
@@ -14,12 +13,12 @@ project work in one place.
 
 ## What's on the site
 
-- **Experience log** — reverse-chronological work history
+- **Experience log** - reverse-chronological work history
 - **Research & publications** — IEEE papers on cyber threat analysis and fall-detection ML
-- **Projects** — DBIT Seva Tech, the Edmonton cycling network cost-benefit model, and math
+- **Projects** - DBIT Seva Tech, the Edmonton cycling network cost-benefit model, and math
   outreach volunteering
-- **Skills & education** — toolkit, certifications, and degrees
-- **Contact** — email and social links
+- **Skills & education** - toolkit, certifications, and degrees
+- **Contact** - email and social links
 
 ## Built with
 
@@ -50,8 +49,8 @@ Then visit `http://localhost:8000`.
 ## Contact
 
 - Email: [samarapires.da@gmail.com](mailto:samarapires.da@gmail.com)
-- LinkedIn: *add your URL*
-- Google Scholar: *add your URL*
+- LinkedIn: *https://www.linkedin.com/in/samara--pires/*
+- Google Scholar: *https://scholar.google.com/citations?user=FankImcAAAAJ&hl=en*
 
 ---
 © 2026 Samara Pires
