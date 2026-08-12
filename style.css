@@ -63,3 +63,10 @@ a{text-decoration:none;color:inherit}
  .research-item{grid-template-columns:1fr;gap:8px}.footer{gap:15px;flex-direction:column}
 }
 @media(max-width:480px){.container{width:min(100% - 32px,1120px)}.hero{padding-top:55px}.hero h1{font-size:44px}.section{padding:80px 0}.impact-grid strong{font-size:23px}.profile-card{padding:24px}}
+.hero-name {
+  font-weight: 800;
+  font-size: 1.3rem;
+  color: #0f1b3d;
+  margin-bottom: 10px;
+  letter-spacing: -0.01em;
+}
