@@ -21,9 +21,9 @@ a{text-decoration:none;color:inherit}
 .nav-links a{color:#52637a;transition:.2s}.nav-links a:hover{color:var(--blue)}
 .nav-cta{background:var(--blue);color:white!important;padding:10px 17px;border-radius:6px}
 .menu-btn{display:none;border:0;background:none;font-size:25px;color:var(--ink)}
-.hero{min-height:670px;display:grid;grid-template-columns:1.08fr .92fr;gap:70px;align-items:center;padding-top:50px;padding-bottom:75px}
+.hero{min-height:670px;display:grid;grid-template-columns:1.25fr .75fr;gap:70px;align-items:center;padding-top:50px;padding-bottom:75px}
 .eyebrow{font-size:11px;letter-spacing:2px;font-weight:800;color:var(--blue);margin-bottom:17px}
-.hero h1{font-size:clamp(30px,4vw,48px);line-height:1.08;letter-spacing:-2px;max-width:800px;color:var(--navy)}
+.hero h1{font-size:clamp(28px,3.6vw,44px);line-height:1.1;letter-spacing:-1.5px;max-width:800px;color:var(--navy)}
 .hero h1 span,.section-head h2 span,.contact h2 span{color:var(--blue)}
 .hero-text{font-size:18px;color:var(--muted);max-width:650px;margin:25px 0 30px}
 .hero-actions{display:flex;gap:12px;flex-wrap:wrap}
