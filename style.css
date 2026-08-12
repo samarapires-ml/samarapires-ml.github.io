@@ -23,7 +23,7 @@ a{text-decoration:none;color:inherit}
 .menu-btn{display:none;border:0;background:none;font-size:25px;color:var(--ink)}
 .hero{min-height:670px;display:grid;grid-template-columns:1.08fr .92fr;gap:70px;align-items:center;padding-top:50px;padding-bottom:75px}
 .eyebrow{font-size:11px;letter-spacing:2px;font-weight:800;color:var(--blue);margin-bottom:17px}
-.hero h1{font-size:clamp(45px,6vw,76px);line-height:1.02;letter-spacing:-4px;max-width:750px;color:var(--navy)}
+.hero h1{font-size:clamp(36px,5vw,60px);line-height:1.05;letter-spacing:-3px;max-width:750px;color:var(--navy)}
 .hero h1 span,.section-head h2 span,.contact h2 span{color:var(--blue)}
 .hero-text{font-size:18px;color:var(--muted);max-width:650px;margin:25px 0 30px}
 .hero-actions{display:flex;gap:12px;flex-wrap:wrap}
